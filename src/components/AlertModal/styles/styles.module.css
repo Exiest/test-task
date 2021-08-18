@@ -1,0 +1,22 @@
+.modalTitle {
+    text-align: center;
+    font-size: 30px;
+    color: black;
+}
+
+.alertModalWrap {
+    width: 90%;
+
+    display: flex;
+    align-items: center;
+
+    flex-direction: column;
+}
+
+.alertModalButton {
+    width: 150px;
+    height: 40px;
+
+    font-size: 20px;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,4 @@
+export const HISTORY_PUSH_TURN = 'HISTORY_PUSH_TURN'
+export const HISTORY_CLEAR = 'HISTORY_CLEAR'
+export const FIND_WINNER = 'FIND_WINNER'
+export const SET_WINNER = 'SET_WINNER'

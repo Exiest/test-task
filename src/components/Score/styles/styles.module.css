@@ -1,0 +1,9 @@
+.scoreWrap {
+    width: 40%;
+    height: 500px;
+
+    padding: 5px 30px;
+
+    color: rgba(255,255,255, 0.9);
+    font-size: 36px;
+}

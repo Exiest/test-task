@@ -1,0 +1,64 @@
+.modalForm {
+    width: 90%;
+
+    margin: 0 auto;
+}
+
+.modalTitle {
+    text-align: center;
+    font-size: 30px;
+    color: black;
+
+    margin: 30px 0 0 0;
+}
+
+.modalFormGroup {
+    width: 100%;
+
+    padding-top: 15px;
+}
+
+.modalInputLabel {
+    font-size: 18px;
+
+    margin-left: 3px;
+}
+
+.modalInput {
+    width: 95%;
+
+    margin: 0 auto;
+    padding: 10px;
+
+    font-size: 24px;
+    outline: none;
+}
+
+.modalFormButtonWrap {
+    width: 100%;
+
+    display: flex;
+    justify-content: center;
+
+    margin: 20px 0;
+}
+
+.modalFormButton {
+    width: 150px;
+    height: 40px;
+
+    font-size: 20px;
+}
+
+.modalFormError {
+    text-align: center;
+    font-size: 18px;
+
+    color: darkred;
+
+    margin: 5px 0;
+}
+
+.inputError {
+    border: 1px solid darkred;
+}
